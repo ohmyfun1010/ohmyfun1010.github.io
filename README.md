@@ -2,45 +2,29 @@
 
 본 프로젝트는 게시물을 올리고 내리며 게시글을 다양한 사용자들이 공유할 수 있는 게시판입니다.
 
-# 개발 인원
+## 개발 인원
 
 1명
 
-# 담당 업무
+## 담당 업무
 
 오라클 DBMS 연동을 통한 로그인, 회원가입, CRUD 처리, 페이징 처리
 
-# 프로젝트 목표
+## 프로젝트 목표
 
 사용자들이 실시간으로 다양한 정보를 공유할 수 있는 게시판 홈페이지 제작
 
-# 구현 기능
+## 구현 기능
 
      - 회원가입
      - 로그인
      - CRUD
      - 페이징 
+<br>
 
-## Contents
-
-- [Setup and Configuration](#setup-and-configuration)
-    - [Making Edits / Customizing the Template](#making-edits--customizing-the-template)
-    - [Using the Template As Is](#using-the-template-as-is)
-- [Customization and Editing](#customization-and-editing)
-    - [General](#general)
-    - [Images](#images)
-    - [Header Section](#header-section)
-    - [Lead Section](#lead-section)
-    - [About Section](#about-section)
-    - [Experience Section](#experience-section)
-    - [Education Section](#education-section)
-    - [Projects Section](#projects-section)
-    - [Skills Section](#skills-section)
-    - [Contact Section](#contact-section)
-    - [Footer Section](#footer-section)
-    - [Optional Sections](#optional-sections)
-- [Changelog](#changelog)
-- [License](#license)
+# 개발
+## 데이터 베이스 테이블 설계
+![DB](./images/DB.png)
 
 ## Setup and Configuration
 

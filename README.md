@@ -38,55 +38,11 @@
 
 # 화면 구성
 
-## 메인 화면
+## 메인
 <img src="images/main.png" width="800">
 
-<br>
-
-### 로그인 화면
-<img src="images/login.png" width="800">
-
-<br>
-
-### 회원가입 화면
+## 회원가입 및 
 <img src="images/join.png" width="800">
-
-<br>
-
-### 회원수정 화면
-<img src="images/joinupdate.png" width="800">
-
-<br>
-### 자유게시판 화면
-<img src="images/free.png" width="800">
-
-<br>
-
-### 유머게시판 화면
-<img src="images/free.png" width="800">
-
-<br>
-
-### 스포츠게시판 화면
-<img src="images/sports.png" width="800">
-
-<br>
-
-### 그림게시판 화면
-<img src="images/draw.png" width="800">
-
-<br>
-### 게시물 화면
-<img src="images/board.png" width="800">
-
-<br>
-
-### 게시물 수정 화면
-<img src="images/boardupdate.png" width="800">
-
-
-
-
 
 
 

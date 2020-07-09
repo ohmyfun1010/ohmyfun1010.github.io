@@ -43,7 +43,7 @@
 * 추가적인 유효성 검사(비밀번호 확인절차)는 Validator를 활용합니다.
 
 ### 아이디 중복 확인 처리
-<img src="images/idcheck.png" width="500">
+<img src="images/idcheck.png" width="700">
 
 * 클라이언트에서 입력한 id값이 DB에 이미 저장된 값인지  쿼리문으로 판단을 합니다. 
      그 후 service에서 id값의 존재 유무를 판단하여 true , false 값을 반환합니다. 

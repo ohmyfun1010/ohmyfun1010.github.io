@@ -28,10 +28,8 @@
 
 ### 상단 메뉴 구성하기
 ![DB](./images/topmenu.png)
-
-*상단 메뉴는 유지보수의 효율성을 위해 DB에서 데이터를 가져와 구성하는 방식을 사용하였습니다.
-*상단 메뉴는 모든 요청에 대해 처리해야 하는 부분이기 때문에 interceptor에서 처리합니다.
-
+* 상단 메뉴는 유지보수의 효율성을 위해 DB에서 데이터를 가져와 구성하는 방식을 사용하였습니다.
+* 상단 메뉴는 모든 요청에 대해 처리해야 하는 부분이기 때문에 interceptor에서 처리합니다.
 ### Making Edits / Customizing the Template
 
 To setup, simply fork the repo and run `npm install` in order to get all the Gulp dev dependencies. Next, run `Gulp watch` to compile the Sass and minify the JavaScript. Alternatively, if you don't have Gulp installed globally, you can run the npm script `npm run watch`. Any changes done to the JavaScript (js/scripts.js) or Sass (sass/styles.scss) will be autocompiled and ready to go.

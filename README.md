@@ -57,7 +57,7 @@
 * 사용 불가능한 아이디라 판단되면 Validator를 사용하여 유효성 검사를 시행하여 메시지를 출력해줍니다.
 
 ### 회원가입 저장처리
-<img src="images/idcheck2.png" width="500">
+<img src="images/join2.png" width="500">
 
 
 

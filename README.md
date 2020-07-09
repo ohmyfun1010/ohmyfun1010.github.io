@@ -43,7 +43,6 @@
 
 <br>
 
-## 로그인 및 회원가입 
 ### 로그인 화면
 <img src="images/login.png" width="800">
 
@@ -58,7 +57,6 @@
 <img src="images/joinupdate.png" width="800">
 
 <br>
-## 게시판 화면
 ### 자유게시판 화면
 <img src="images/free.png" width="800">
 
@@ -78,7 +76,6 @@
 <img src="images/draw.png" width="800">
 
 <br>
-## 게시 화면
 ### 게시물 화면
 <img src="images/board.png" width="800">
 

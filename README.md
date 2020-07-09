@@ -64,9 +64,17 @@
 
 
 ## 게시판 화면
-### 자유, 유머 게시판
+### 자유 및 유머 게시판
 <img src="images/free.png" width="500"><img src="images/funny.png" width="500">
 <br>
-### 그림,  게시판
+### 그림 및 게시판
 <img src="images/draw.png" width="500"><img src="images/sports.png" width="500">
+<br>
+### 게시글 화면
+<img src="images/board.png" width="800">
+<br>
+### 게시글 수정 화면
+<img src="images/boardupdate.png" width="800">
+
+
 

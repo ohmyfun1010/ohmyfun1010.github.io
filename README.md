@@ -21,8 +21,8 @@
      - CRUD
      - 페이징 
 
-# 데이터베이스 테이블 설계
-
+# 개발
+## 데이터 베이스 테이블 설계
 ![DB](./images/DB.png)
 
 ## Setup and Configuration

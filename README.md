@@ -26,8 +26,8 @@
 ## 데이터 베이스 테이블 설계
 ![DB](./images/DB.png)
 
-## Setup and Configuration
-
+## 상단 메뉴 구성하기
+![DB](./images/topmenu.png)
 The setup required can be broken into two types:
 1. If you want to make edits or customize the template
 2. If you just want to add your information as use as is

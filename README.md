@@ -70,7 +70,7 @@
 
 <br>
 
-### 그림 및 게시판
+### 그림 및 스포츠 게시판
 <img src="images/draw.png" width="500"><img src="images/sports.png" width="500">
 
 <br>

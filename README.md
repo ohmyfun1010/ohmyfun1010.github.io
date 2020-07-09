@@ -20,6 +20,15 @@
      - 로그인
      - CRUD
      - 페이징 
+     
+
+### 개발 도구
+
+     - Jdk : 8 버전
+     - Spring framework : spring 5
+     - 웹서버 : Apache
+     - WAS : Tomcat 9.0
+     - Maven : 3.2.1
 <br>
 
 # 개발

@@ -42,6 +42,34 @@
 ### 메인 화면
 <img src="images/main.png" width="800">
 
+### 로그인 화면
+<img src="images/login.png" width="800">
+
+### 회원가입 화면
+<img src="images/join.png" width="800">
+
+### 회원수정 화면
+<img src="images/joinupdate.png" width="800">
+
+### 자유게시판 화면
+<img src="images/free.png" width="800">
+
+### 유머게시판 화면
+<img src="images/free.png" width="800">
+
+### 스포츠게시판 화면
+<img src="images/sports.png" width="800">
+
+### 그림게시판 화면
+<img src="images/draw.png" width="800">
+
+### 게시물 화면
+<img src="images/board.png" width="800">
+
+### 게시물 수정 화면
+<img src="images/boardupdate.png" width="800">
+
+
 
 
 

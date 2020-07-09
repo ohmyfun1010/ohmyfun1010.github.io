@@ -21,7 +21,9 @@
      - CRUD
      - 페이징 
 
-## Contents
+# 데이터베이스 테이블 설계
+
+![DB](/images/DB.png)
 
 - [Setup and Configuration](#setup-and-configuration)
     - [Making Edits / Customizing the Template](#making-edits--customizing-the-template)

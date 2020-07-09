@@ -31,13 +31,12 @@
      - Maven : 3.2.1
 <br>
 
-# 개발
-## 데이터 베이스 테이블 설계
+# 데이터베이스 테이블 설계
 ![DB](./images/DB.png)
 
 <br>
 
-## 화면 구성
+# 화면 구성
 
 ### 메인 화면
 <img src="images/main.png" width="800">

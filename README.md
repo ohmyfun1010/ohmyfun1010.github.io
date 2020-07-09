@@ -44,7 +44,7 @@
 <br>
 
 ## 회원가입 및 로그인 화면
-### 회원가입 화면
+### 회원가입 
 <img src="images/join.png" width="800">
 
 <br>
@@ -55,7 +55,7 @@
 
 
 
-### 로그인 화면
+### 로그인 
 <img src="images/login.png" width="800">
 
 <br>
@@ -80,7 +80,12 @@
 
 <br>
 
-### 게시글 수정 화면
+### 게시글 작성
+<img src="images/boardupdate.png" width="800">
+
+<br>
+
+### 게시글 수정 
 <img src="images/boardupdate.png" width="800">
 
 

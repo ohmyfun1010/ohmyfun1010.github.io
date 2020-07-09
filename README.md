@@ -38,13 +38,13 @@
 
 # 화면 구성
 
-## 메인
+## 메인페이지
 <img src="images/main.png" width="800">
 
 <br>
 
-## 회원가입 및 로그인
-### 회원가입 및 로그인
+## 회원가입 및 로그인 페이지
+### 회원가입 페이지
 <img src="images/join.png" width="800">
 
 <br>

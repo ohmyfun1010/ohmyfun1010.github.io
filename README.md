@@ -63,8 +63,10 @@
 <img src="images/loginchecks.png" width="500">
 
 
-## 게시판 
+## 게시판 화면
+### 자유, 유머 게시판
 <img src="images/free.png" width="500"><img src="images/funny.png" width="500">
 <br>
+### 그림,  게시판
 <img src="images/draw.png" width="500"><img src="images/sports.png" width="500">
 

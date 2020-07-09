@@ -38,19 +38,50 @@
 
 # 화면 구성
 
-## 메인페이지
+## 메인 화면
 <img src="images/main.png" width="800">
 
 <br>
 
-## 회원가입 및 로그인 페이지
-### 회원가입 페이지
+## 회원가입 및 로그인 화면
+### 회원가입 화면
 <img src="images/join.png" width="800">
 
 <br>
 
 ### 회원가입 유효성 검사
 <img src="images/joincheck.png" width="500">
+
+
+
+
+### 로그인 화면
+<img src="images/login.png" width="800">
+
+<br>
+
+### 로그인 유효성 검사
+<img src="images/loginchecks.png" width="500">
+
+
+## 게시판 화면
+### 자유 및 유머 게시판
+<img src="images/free.png" width="500"><img src="images/funny.png" width="500">
+
+<br>
+
+### 그림 및 스포츠 게시판
+<img src="images/draw.png" width="500"><img src="images/sports.png" width="500">
+
+<br>
+
+### 게시글 화면
+<img src="images/board.png" width="800">
+
+<br>
+
+### 게시글 수정 화면
+<img src="images/boardupdate.png" width="800">
 
 
 

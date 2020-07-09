@@ -40,7 +40,7 @@
 ## 화면 구성
 
 ### 메인 화면
-<img src="images/main.png" width="500">
+<img src="images/main.png" width="800">
 
 
 

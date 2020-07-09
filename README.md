@@ -32,41 +32,15 @@
 <br>
 
 # 개발
-### 데이터 베이스 테이블 설계
+## 데이터 베이스 테이블 설계
 ![DB](./images/DB.png)
 
 <br>
 
-### 상단 메뉴 구성하기
-![DB](./images/topmenu.png)
-* 상단 메뉴는 유지보수의 효율성을 위해 DB에서 데이터를 가져와 구성하는 방식을 사용하였습니다.
-* 상단 메뉴는 모든 요청에 대해 처리해야 하는 부분이기 때문에 interceptor에서 처리합니다.
+## 화면 구성
 
-<br>
-
-### 유효성 검사 처리하기
-<img src="images/join.png" width="500">
-
-* 회원가입 화면에서 입력값에 대한 유효성 검사를 시행합니다.
-* 기본 제공되는 유효성 검사 어노테이션을 활용합니다.
-* 추가적인 유효성 검사(비밀번호 확인절차)는 Validator를 활용합니다.
-
-### 아이디 중복 확인 처리
-<img src="images/idcheck.png" width="700">
-
-* 클라이언트에서 입력한 id값이 DB에 이미 저장된 값인지  쿼리문으로 판단을 합니다. 
-     그 후 service에서 id값의 존재 유무를 판단하여 true , false 값을 반환합니다. 
-     마지막으로 RestController에서 service를 주입 받아 반환 값을 문자 그대로 반환해줍니다.  
-
-* 클라이언트 부분에서는 ajax 통신을 활용하여 중복 버튼을 눌렀을 때 페이지 새로 고침 없이
-     반환 값을 받아와 사용가능한 아이디인지 판단하여 javascript alert창을 호출합니다.
-     
-<img src="images/idcheck2.png" width="500">
-
-* 사용 불가능한 아이디라 판단되면 Validator를 사용하여 유효성 검사를 시행하여 메시지를 출력해줍니다.
-
-### 회원가입 저장처리
-<img src="images/join2.png" width="500">
+### 메인 화면
+<img src="images/main.png" width="800">
 
 
 

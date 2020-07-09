@@ -44,5 +44,8 @@
 ## 회원가입 및 로그인
 <img src="images/join.png" width="800">
 
+## 회원가입 유효성 검사
+<img src="images/joincheck.png" width="800">
+
 
 

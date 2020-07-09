@@ -62,7 +62,7 @@
 ### 로그인 유효성 검사
 <img src="images/loginchecks.png" width="500">
 
-<br>
+
 ## 게시판 
 <img src="images/free.png" width="500"><img src="images/funny.png" width="500"><img src="images/draw.png" width="500"><img src="images/sports.png" width="500">
 

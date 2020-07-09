@@ -41,7 +41,7 @@
 ## 메인
 <img src="images/main.png" width="800">
 
-## 회원가입 및 
+## 회원가입 및 로그인
 <img src="images/join.png" width="800">
 
 

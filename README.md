@@ -31,15 +31,14 @@
      - Maven : 3.2.1
 <br>
 
-# 개발
-## 데이터 베이스 테이블 설계
+# 데이터베이스 테이블 설계
 ![DB](./images/DB.png)
 
 <br>
 
-## 화면 구성
+# 화면 구성
 
-### 메인 화면
+## 메인 화면
 <img src="images/main.png" width="800">
 
 <br>
@@ -58,7 +57,6 @@
 <img src="images/joinupdate.png" width="800">
 
 <br>
-
 ### 자유게시판 화면
 <img src="images/free.png" width="800">
 
@@ -78,7 +76,6 @@
 <img src="images/draw.png" width="800">
 
 <br>
-
 ### 게시물 화면
 <img src="images/board.png" width="800">
 

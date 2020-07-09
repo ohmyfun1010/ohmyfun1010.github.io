@@ -51,7 +51,7 @@
 
 ### 회원가입 유효성 검사
 <img src="images/joincheck.png" width="500">
-
+** awdawdawdawd
 <br>
 
 ### 로그인 화면

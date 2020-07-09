@@ -81,7 +81,7 @@
 <br>
 
 ### 게시글 작성
-<img src="images/boardupdate.png" width="800">
+<img src="images/write.png" width="800">
 
 <br>
 

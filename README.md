@@ -28,9 +28,9 @@
 
 ## 상단 메뉴 구성하기
 ![DB](./images/topmenu.png)
-The setup required can be broken into two types:
-1. If you want to make edits or customize the template
-2. If you just want to add your information as use as is
+
+*상단 메뉴는 유지보수의 효율성을 위해 DB에서 데이터를 가져와 구성하는 방식을 사용하였습니다.
+*상단 메뉴는 모든 요청에 대해 처리해야 하는 부분이기 때문에 interceptor에서 처리합니다.
 
 ### Making Edits / Customizing the Template
 

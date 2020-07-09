@@ -58,7 +58,7 @@
 3.아이디 중복 확인 절차는 ajax통신을 활용하여 중복 버튼을 눌렀을 때 입력한 데이터의 존재유무를 판단후 restcontroller를 활용하여 true,false값을 반환받아 중복 유무 확인
 
 
-<br>
+
 ### 로그인 화면
 <img src="images/login.png" width="800">
 

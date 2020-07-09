@@ -51,7 +51,8 @@
 
 ### 회원가입 유효성 검사
 <img src="images/joincheck.png" width="500">
-** awdawdawdawd
+- 커피 자체에 흥미를 가질 수 있음. 
+- 합리적인 가격으로 고급 커피를 집에서 편안하게 느낄 수 있음.
 <br>
 
 ### 로그인 화면

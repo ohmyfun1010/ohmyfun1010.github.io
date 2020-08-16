@@ -27,8 +27,9 @@
      - Jdk : 8 버전
      - Spring framework : spring 5
      - 웹서버 : Apache
-     - WAS : Tomcat 9.0
+     - WAS : Apache Tomcat 9.0
      - Maven : 3.2.1
+     - DBMS : ORACLE 11g
 <br>
 
 # 데이터베이스 테이블 설계
